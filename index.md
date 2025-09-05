@@ -10,3 +10,7 @@
 talk= "Hello,cat!"
 print(talk)
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
